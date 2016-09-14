@@ -1,0 +1,6 @@
+c:\users\jeremy\documents\visual studio 2013\Projects\CS Console Homework\CS Console Homework\bin\Debug\CS Console Homework.exe.config
+c:\users\jeremy\documents\visual studio 2013\Projects\CS Console Homework\CS Console Homework\bin\Debug\CS Console Homework.exe
+c:\users\jeremy\documents\visual studio 2013\Projects\CS Console Homework\CS Console Homework\bin\Debug\CS Console Homework.pdb
+c:\users\jeremy\documents\visual studio 2013\Projects\CS Console Homework\CS Console Homework\obj\Debug\CS Console Homework.csprojResolveAssemblyReference.cache
+c:\users\jeremy\documents\visual studio 2013\Projects\CS Console Homework\CS Console Homework\obj\Debug\CS Console Homework.exe
+c:\users\jeremy\documents\visual studio 2013\Projects\CS Console Homework\CS Console Homework\obj\Debug\CS Console Homework.pdb
