@@ -1,0 +1,6 @@
+c:\users\jeremy\documents\visual studio 2013\Projects\DataStructureBasicAssignment\DataStructureBasicAssignment\bin\Debug\DataStructureBasicAssignment.exe.config
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\DataStructureBasicAssignment\DataStructureBasicAssignment\bin\Debug\DataStructureBasicAssignment.exe
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\DataStructureBasicAssignment\DataStructureBasicAssignment\bin\Debug\DataStructureBasicAssignment.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\DataStructureBasicAssignment\DataStructureBasicAssignment\obj\Debug\DataStructureBasicAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\DataStructureBasicAssignment\DataStructureBasicAssignment\obj\Debug\DataStructureBasicAssignment.exe
+C:\Users\Jeremy\Documents\Visual Studio 2013\Projects\DataStructureBasicAssignment\DataStructureBasicAssignment\obj\Debug\DataStructureBasicAssignment.pdb
